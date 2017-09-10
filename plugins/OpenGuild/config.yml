@@ -70,7 +70,7 @@ use-new-command-api: true
 join-msg: ''
 quit-msg: ''
 forcedesc: false
-debug: true
+debug: false
 chat:
   prefix: '&6[{ELO}] &6[{TAG}] '
   guild-format: '&8[&aGuild&8] &b{PLAYER}&7: &f{MESSAGE}'
